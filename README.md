@@ -7,6 +7,7 @@ I’m currently expanding my skill set into full-stack development, building han
 ⸻
 
 💡 What I’m Working On
+
 	•	Developing full-stack web projects to strengthen my technical skills and portfolio.
 	•	Growing Gavoha Technologies, my startup focused on tech consulting and software development.
 	•	Creating educational content on Tech Manager’s Hub, my faceless YouTube channel that explores tech, cloud computing, and product management.
@@ -25,6 +26,7 @@ Frameworks & Methods: Agile, Lean Startup, RICE, OKRs
 ⸻
 
 🚀 Areas I’m Passionate About
+
 	•	Building products users love and businesses grow with
 	•	Experimentation and hypothesis-driven development
 	•	Bridging the gap between product and engineering teams
@@ -33,8 +35,11 @@ Frameworks & Methods: Agile, Lean Startup, RICE, OKRs
 ⸻
 
 🌍 Let’s Connect
+
 	•	💼 LinkedIn￼
+
 	•	🎥 YouTube – Tech Manager’s Hub￼
+
 	•	🌐 Portfolio / Website￼
 
 ⸻
