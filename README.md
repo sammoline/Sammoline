@@ -1,7 +1,6 @@
 ## Hi there 👋 I’m Samuel Olayenikan
 
 I’m a Product Manager at Cavista Technologies with over five years of experience launching digital products that improve user experience and business efficiency. I enjoy connecting strategy, design, and technology to bring ideas from concept to market.
-
 I’m currently expanding my skill set into full-stack development, building hands-on projects to deepen my technical understanding and become a more well-rounded product leader. My goal is to blend product thinking with engineering insight to build solutions that truly scale.
 
 ⸻
