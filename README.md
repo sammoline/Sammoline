@@ -15,10 +15,15 @@ I’m currently expanding my skill set into full-stack development, building han
 🧰 Tech & Product Stack	
 
 Frontend: HTML, CSS, JavaScript, React																																																			
+
 Backend: Node.js, Express, Python (learning)																																																								
+
 Database: MongoDB, PostgreSQL																																																												
+
 Cloud & DevOps: AWS (intro level), Azure, Git, CI/CD fundamentals																																													
+
 Product Tools: Jira, Confluence, Notion, Figma, Miro																																																					
+
 Frameworks & Methods: Agile, Lean Startup, RICE, OKRs
 ⸻
 
