@@ -5,11 +5,11 @@ I’m a Product Manager at Cavista Technologies with over five years of experien
 I’m currently expanding my skill set into full-stack development, building hands-on projects to deepen my technical understanding and become a more well-rounded product leader. My goal is to blend product thinking with engineering insight to build solutions that truly scale.
 ⸻
 
-💡 What I’m Working On											
+💡 What I’m Working On	
 
-	•	Developing full-stack web projects to strengthen my technical skills and portfolio.																																													
-	•	Growing Gavoha Technologies, my startup focused on tech consulting and software development.																																										
-	•	Creating educational content on Tech Manager’s Hub, my faceless YouTube channel that explores tech, cloud computing, and product management.
+Developing full-stack web projects to strengthen my technical skills and portfolio.																																													
+Growing Gavoha Technologies, my startup focused on tech consulting and software development.																																										
+Creating educational content on Tech Manager’s Hub, my faceless YouTube channel that explores tech, cloud computing, and product management.
 ⸻
 
 🧰 Tech & Product Stack	
