@@ -8,50 +8,50 @@ I’m currently expanding my skill set into full-stack development, building han
 
 💡 What I’m Working On	
 
-Developing full-stack web projects to strengthen my technical skills and portfolio.																																													
+- Developing full-stack web projects to strengthen my technical skills and portfolio.																																													
 
-Growing Gavoha Technologies, my startup focused on tech consulting and software development.																																										
+- Growing Gavoha Technologies, my startup focused on tech consulting and software development.																																										
 
-Creating educational content on Tech Manager’s Hub, my faceless YouTube channel that explores tech, cloud computing, and product management.
+- Creating educational content on Tech Manager’s Hub, my faceless YouTube channel that explores tech, cloud computing, and product management.
 
 ⸻
 
 🧰 Tech & Product Stack	
 
-Frontend: HTML, CSS, JavaScript, React																																																			
+- Frontend: HTML, CSS, JavaScript, React																																																			
 
-Backend: Node.js, Express, Python (learning)																																																								
+- Backend: Node.js, Express, Python (learning)																																																								
 
-Database: MongoDB, PostgreSQL																																																												
+- Database: MongoDB, PostgreSQL																																																												
 
-Cloud & DevOps: AWS (intro level), Azure, Git, CI/CD fundamentals																																													
+- Cloud & DevOps: AWS (intro level), Azure, Git, CI/CD fundamentals																																													
 
-Product Tools: Jira, Confluence, Notion, Figma, Miro																																																					
+- Product Tools: Jira, Confluence, Notion, Figma, Miro																																																					
 
-Frameworks & Methods: Agile, Lean Startup, RICE, OKRs
+- Frameworks and Methods: Agile, Lean Startup, RICE, OKRs
 
 ⸻
 
 
 🚀 Areas I’m Passionate About																																																												
 
-Building products users love and businesses grow with																																																				
+- Building products users love and businesses grow with																																																				
 
-Experimentation and hypothesis-driven development																																																					
+- Experimentation and hypothesis-driven development																																																					
 
-Bridging the gap between product and engineering teams																																																	
+- Bridging the gap between product and engineering teams																																																	
 
-Continuous learning through code and iteration
+- Continuous learning through code and iteration
 
 ⸻
 
 🌍 Let’s Connect
 
-💼 LinkedIn￼																																																														
+- 💼 LinkedIn￼																																																														
 
-🎥 YouTube – Tech Manager’s Hub￼																																																									
+- 🎥 YouTube – Tech Manager’s Hub￼																																																									
 
-🌐 Portfolio / Website￼
+- 🌐 Portfolio / Website￼
 
 ⸻
 
