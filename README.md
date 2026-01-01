@@ -1,45 +1,48 @@
 ## Hi there 👋 I’m Samuel Olayenikan
 
-I’m a Product Manager with over five years of experience launching digital products that improve user experience and business efficiency. I enjoy connecting strategy, design, and technology to bring ideas from concept to market.
+I’m a Product Manager and DevOps oriented technologist with over five years of experience building, launching, and scaling digital products. My core strength lies in aligning product strategy with technical execution to deliver reliable, scalable, and user focused solutions.
 
-I’m currently expanding my skill set into full-stack development, building hands-on projects to deepen my technical understanding and become a more well-rounded product leader. My goal is to blend product thinking with engineering insight to build solutions that truly scale.
+I work at the intersection of product leadership, cloud infrastructure, and delivery systems. This allows me to think beyond features and focus on performance, reliability, automation, and long term product sustainability.
+
+Alongside my core focus, I actively practice full-stack development to strengthen my engineering fluency. This helps me collaborate better with developers, make informed technical tradeoffs, and lead products with a deeper understanding of how systems are actually built and deployed.
 
 ⸻
 
 💡 What I’m Working On	
 
-- Developing full-stack web projects to strengthen my technical skills and portfolio.																																													
+- Designing and managing products with strong DevOps foundations, including CI/CD, cloud infrastructure, and system reliability																																												
 
-- Growing Gavoha Technologies, my startup focused on tech consulting and software development.																																										
+- Building hands on full-stack projects to support my product and DevOps expertise																																										
 
-- Creating educational content on Tech Manager’s Hub, my faceless YouTube channel that explores tech, cloud computing, and product management.
+- Growing Gavoha Technologies, a startup focused on tech consulting, product delivery, and software solutions
+- Creating educational content on Tech Manager’s Hub, a faceless YouTube channel covering cloud, DevOps, and product management concepts
 
 ⸻
 
-🧰 Tech & Product Stack	
+🧰 Tech, DevOps & Product Stack
 
-- Frontend: HTML, CSS, JavaScript, React																																																			
-
-- Backend: Node.js, Express, Python (learning)																																																								
-
-- Database: MongoDB, PostgreSQL																																																												
-
-- Cloud & DevOps: AWS, Azure, Git, CI/CD fundamentals																																													
-
-- Product Tools: Jira, Confluence, Notion, Figma, Miro																																																					
-
-- Frameworks and Methods: Agile, Lean Startup, RICE, ICE
+- Product & Delivery
+- Product strategy, roadmapping, discovery, and execution
+- Agile, Lean Startup, RICE, ICE
+- Jira, Confluence, Notion, Figma, Miro
+- Cloud & DevOps (Primary Focus)
+- AWS, Azure
+- Git, CI/CD fundamentals
+- Infrastructure awareness, deployment pipelines, system reliability concepts
+- Full-Stack Development (Secondary Focus)
+- Frontend. HTML, CSS, JavaScript, React
+- Backend. Node.js, Express, Python (learning)
+- Databases. MongoDB, PostgreSQL
 
 ⸻
 
 
 🚀 Areas I’m Passionate About																																																												
 
-- Building products users love and businesses grow with experimentation and hypothesis-driven development																																																					
-
-- Bridging the gap between product and engineering teams																																																	
-
-- Continuous learning through code and iteration
+- Building scalable products backed by strong infrastructure and delivery pipelines
+- Bridging product, engineering, and DevOps teams with shared context and clarity
+- Using experimentation, metrics, and systems thinking to drive product decisions
+- Continuous improvement through hands on building and iteration
 
 ⸻
 
