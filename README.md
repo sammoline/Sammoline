@@ -1,61 +1,18 @@
-## Hi there 👋 I’m Samuel Olayenikan
-
-I’m a Product Manager and DevOps oriented technologist with over five years of experience building, launching, and scaling digital products. My core strength lies in aligning product strategy with technical execution to deliver reliable, scalable, and user focused solutions.
-
-I work at the intersection of product leadership, cloud infrastructure, and delivery systems. This allows me to think beyond features and focus on performance, reliability, automation, and long term product sustainability.
-
-Alongside my core focus, I actively practice full-stack development to strengthen my engineering fluency. This helps me collaborate better with developers, make informed technical tradeoffs, and lead products with a deeper understanding of how systems are actually built and deployed.
-
-⸻
-
-💡 What I’m Working On	
-
-- Designing and managing products with strong DevOps foundations, including CI/CD, cloud infrastructure, and system reliability																																												
-
-- Building hands on full-stack projects to support my product and DevOps expertise																																										
-
-- Growing Gavoha Technologies, a startup focused on tech consulting, product delivery, and software solutions
-- Creating educational content on Tech Manager’s Hub, a faceless YouTube channel covering cloud, DevOps, and product management concepts
-
-⸻
-
-🧰 Tech, DevOps & Product Stack
-
-- Product & Delivery
-- Product strategy, roadmapping, discovery, and execution
-- Agile, Lean Startup, RICE, ICE
-- Jira, Confluence, Notion, Figma, Miro
-- Cloud & DevOps (Primary Focus)
-- AWS, Azure
-- Git, CI/CD fundamentals
-- Infrastructure awareness, deployment pipelines, system reliability concepts
-- Full-Stack Development (Secondary Focus)
-- Frontend. HTML, CSS, JavaScript, React
-- Backend. Node.js, Express, Python (learning)
-- Databases. MongoDB, PostgreSQL
-
-⸻
+# 💫 About Me:
+Hi there 👋 I’m Samuel Olayenikan<br>I’m a Product Manager and DevOps oriented technologist with over five years of experience building, launching, and scaling digital products. My core strength lies in aligning product strategy with technical execution to deliver reliable, scalable, and user focused solutions.<br><br>I work at the intersection of product leadership, cloud infrastructure, and delivery systems. This allows me to think beyond features and focus on performance, reliability, automation, and long term product sustainability.<br><br>Alongside my core focus, I actively practice full-stack development to strengthen my engineering fluency. This helps me collaborate better with developers, make informed technical tradeoffs, and lead products with a deeper understanding of how systems are actually built and deployed.<br><br>⸻<br><br>💡 What I’m Working On<br><br>Designing and managing products with strong DevOps foundations, including CI/CD, cloud infrastructure, and system reliability<br><br>Building hands on full-stack projects to support my product and DevOps expertise<br><br>Growing Gavoha Technologies, a startup focused on tech consulting, product delivery, and software solutions<br><br>Creating educational content on Tech Manager’s Hub, a faceless YouTube channel covering cloud, DevOps, and product management concepts<br><br>⸻<br><br>🧰 Tech, DevOps & Product Stack<br><br>Product & Delivery<br>Product strategy, roadmapping, discovery, and execution<br>Agile, Lean Startup, RICE, ICE<br>Jira, Confluence, Notion, Figma, Miro<br>Cloud & DevOps (Primary Focus)<br>AWS, Azure<br>Git, CI/CD fundamentals<br>Infrastructure awareness, deployment pipelines, system reliability concepts<br>Full-Stack Development (Secondary Focus)<br>Frontend. HTML, CSS, JavaScript, React<br>Backend. Node.js, Express, Python (learning)<br>Databases. MongoDB, PostgreSQL<br>⸻<br><br>🚀 Areas I’m Passionate About<br><br>Building scalable products backed by strong infrastructure and delivery pipelines<br>Bridging product, engineering, and DevOps teams with shared context and clarity<br>Using experimentation, metrics, and systems thinking to drive product decisions<br>Continuous improvement through hands on building and iteration<br>⸻<br><br>🌍 Let’s Connect<br><br>💼 LinkedIn￼<br><br>🎥 YouTube – Tech Manager’s Hub￼<br><br>🌐 Portfolio / Website￼<br><br>⸻<br><br>✨ Fun Fact<br><br>When I’m not exploring product ideas or coding, I’m likely watching a great animation or spending time with my family.
 
 
-🚀 Areas I’m Passionate About																																																												
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel.olayenikan@gmail.com) 
 
-- Building scalable products backed by strong infrastructure and delivery pipelines
-- Bridging product, engineering, and DevOps teams with shared context and clarity
-- Using experimentation, metrics, and systems thinking to drive product decisions
-- Continuous improvement through hands on building and iteration
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sammoline&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sammoline&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammoline&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-⸻
+---
+[![](https://visitcount.itsvg.in/api?id=Sammoline&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌍 Let’s Connect
-
-- 💼 LinkedIn￼																																																														
-
-- 🎥 YouTube – Tech Manager’s Hub￼																																																									
-
-- 🌐 Portfolio / Website￼
-
-⸻
-
-✨ Fun Fact
-
-When I’m not exploring product ideas or coding, I’m likely watching a great animation or spending time with my family.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
